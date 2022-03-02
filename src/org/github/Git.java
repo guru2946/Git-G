@@ -1,5 +1,7 @@
 package org.github;
 
 public class Git {
-int g = 25;
+	int s =19;
+	int g = 25;
+
 }
